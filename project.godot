@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="Rocket01"
-run/main_scene="res://Archive/Node2D.tscn"
+run/main_scene="res://Scenes/Game.tscn"
 config/icon="res://icon.png"
 
 [display]
@@ -21,6 +21,10 @@ window/size/height=720
 window/size/borderless=true
 window/size/fullscreen=true
 window/dpi/allow_hidpi=true
+
+[editor]
+
+scene_naming=2
 
 [gui]
 
