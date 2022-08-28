@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Wilbo, Fire, Gold.png-fcb31828792e0a815ace36f13ea8edc2.stex"
+path="res://.import/tileMapStars.png-4c697301d2f25d9b1f8f0fa279d83ad0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Wilbo, Fire, Gold.png"
-dest_files=[ "res://.import/Wilbo, Fire, Gold.png-fcb31828792e0a815ace36f13ea8edc2.stex" ]
+source_file="res://Art/Tiles/tileMapStars.png"
+dest_files=[ "res://.import/tileMapStars.png-4c697301d2f25d9b1f8f0fa279d83ad0.stex" ]
 
 [params]
 
