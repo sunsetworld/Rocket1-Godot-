@@ -52,5 +52,7 @@ format = 1
 tile_data = PoolIntArray( 131071, 0, 0, 65536, 0, 0, 65537, 0, 0 )
 
 [node name="Explosion" parent="." instance=ExtResource( 3 )]
+position = Vector2( 1087, 214 )
 
-[node name="Area2D" parent="." instance=ExtResource( 4 )]
+[node name="Bullet" parent="." instance=ExtResource( 4 )]
+position = Vector2( 861, 217 )
