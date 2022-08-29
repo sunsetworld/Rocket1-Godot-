@@ -55,4 +55,44 @@ tile_data = PoolIntArray( 131071, 0, 0, 65536, 0, 0, 65537, 0, 0 )
 position = Vector2( 1087, 214 )
 
 [node name="Bullet" parent="." instance=ExtResource( 4 )]
-position = Vector2( 861, 217 )
+position = Vector2( 67, 205 )
+rotation = 1.5708
+
+[node name="bullet" parent="." instance=ExtResource( 4 )]
+position = Vector2( 317, 256 )
+
+[node name="bullet2" parent="." instance=ExtResource( 4 )]
+position = Vector2( 191, 322 )
+
+[node name="bullet6" parent="." instance=ExtResource( 4 )]
+position = Vector2( 1124, 592 )
+rotation = 3.14159
+
+[node name="bullet7" parent="." instance=ExtResource( 4 )]
+position = Vector2( 998, 658 )
+rotation = 3.14159
+
+[node name="bullet8" parent="." instance=ExtResource( 4 )]
+position = Vector2( 1125, 706 )
+rotation = 3.14159
+
+[node name="bullet9" parent="." instance=ExtResource( 4 )]
+position = Vector2( 991, 536 )
+rotation = 3.14159
+
+[node name="bullet10" parent="." instance=ExtResource( 4 )]
+position = Vector2( 1119, 477 )
+rotation = 3.14159
+
+[node name="bullet3" parent="." instance=ExtResource( 4 )]
+position = Vector2( 318, 370 )
+
+[node name="bullet4" parent="." instance=ExtResource( 4 )]
+position = Vector2( 184, 200 )
+
+[node name="bullet5" parent="." instance=ExtResource( 4 )]
+position = Vector2( 312, 141 )
+
+[node name="bullet11" parent="." instance=ExtResource( 4 )]
+position = Vector2( 1229, 217 )
+rotation = -1.5708
